@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// index.js file attaches the root React component, App.js, using React.dom and the statement document.getElementById('root').
 ReactDOM.render(
   <React.StrictMode>
     <App />
